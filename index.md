@@ -11,7 +11,7 @@ My research interests lie in data visualization (VIS) and human computer interac
 
 ## News
 
-- **[Feb. 2024]** Our paper <a href="https://arxiv.org/abs/2406.03843">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a> is accepted by PacificVis 2025!
+- **[Feb. 2025]** Our paper <a href="https://arxiv.org/abs/2406.03843">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a> is accepted by PacificVis 2025!
 - **[Aug. 2024]** Start my jouney at ASU🏫. 
 - **[Jul. 2024]** Graduated from ShanghaiTech University. Got my Master's Degree🎓.
 - **[Nov. 2023]** Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3637303">BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</a> is accepted by CSCW2023!

@@ -4,40 +4,54 @@
 <ol class="bibliography">
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/teaser_BPCoach.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-     
-    <abbr class="badge">CSCW</abbr>
-    
-    
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3637303">BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</a></div>
-      <div class="author"><strong><u>Shiyi Liu</u></strong>, Ruofei Ma, Chuyi Zhao, Zhenbang Li, Jianpeng Xiao, Quan Li</div>
-      <div class="periodical"><em>ACM Conference on Computer-Supported Cooperative Work and Social Computing <strong>(CSCW)</strong>, 2023.</em>
-      </div>
-    <div class="links">
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
        
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3637303" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
+      <img src="./assets/img/teaser_Poem.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
-      <!-- <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      
-      
-       
-      <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      
-       
-      <!-- <strong> <i style="color:#e74d3c">Early Accept</i></strong> -->
+      <abbr class="badge">arXiv</abbr>
       
       
     </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/abs/2407.03045">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a></div>
+        <div class="author">Jianben He, Xingbo Wang, <strong><u>Shiyi Liu</u></strong>, Guande Wu, Claudio Silva, Huamin Qu</div>
+        <div class="periodical">2023.
+        </div>
+      <div class="links">
+         
+        <a href="https://arxiv.org/abs/2406.03843" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        
+        
+      </div>
+    </div>
   </div>
-</div>
-</li>
-<br />
+  </li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+       
+      <img src="./assets/img/teaser_JailbreakHunter.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+       
+      <abbr class="badge">arXiv</abbr>
+      
+      
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/abs/2407.03045">JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets</a></div>
+        <div class="author">Zhihua Jin, <strong><u>Shiyi Liu</u></strong>, Haotian Li, Xun Zhao, Huamin Qu</div>
+        <div class="periodical">2023.
+        </div>
+      <div class="links">
+         
+        <a href="https://arxiv.org/abs/2407.03045" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        
+        
+      </div>
+    </div>
+  </div>
+  </li>
 
 <li>
 <div class="pub-row">
@@ -103,30 +117,45 @@
   </div>
   </li>
 
+
 <li>
-  <div class="pub-row">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-       
-      <img src="./assets/img/teaser_JailbreakHunter.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-       
-      <abbr class="badge">arXiv</abbr>
-      
-      
-    </div>
-    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2407.03045">JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets</a></div>
-        <div class="author">Zhihua Jin, <strong><u>Shiyi Liu</u></strong>, Haotian Li, Xun Zhao, Huamin Qu</div>
-        <div class="periodical">2023.
-        </div>
-      <div class="links">
-         
-        <a href="https://arxiv.org/abs/2407.03045" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-        
-        
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+     
+    <img src="./assets/img/teaser_BPCoach.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+     
+    <abbr class="badge">CSCW</abbr>
+    
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3637303">BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</a></div>
+      <div class="author"><strong><u>Shiyi Liu</u></strong>, Ruofei Ma, Chuyi Zhao, Zhenbang Li, Jianpeng Xiao, Quan Li</div>
+      <div class="periodical"><em>ACM Conference on Computer-Supported Cooperative Work and Social Computing <strong>(CSCW)</strong>, 2023.</em>
       </div>
+    <div class="links">
+       
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3637303" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+       
+      <!-- <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      
+      
+       
+      <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      
+       
+      <!-- <strong> <i style="color:#e74d3c">Early Accept</i></strong> -->
+      
+      
     </div>
   </div>
-  </li>
+</div>
+</li>
+<br />
+
+<li>
+
 
 <br />
 

@@ -14,9 +14,9 @@
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2406.03843">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a></div>
+        <div class="title"><a href="https://arxiv.org/abs/2407.03045">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a></div>
         <div class="author">Jianben He, Xingbo Wang, <strong><u>Shiyi Liu</u></strong>, Guande Wu, Claudio Silva, Huamin Qu</div>
-        <div class="periodical"><em>IEEE Pacific Visualization Conference <strong>(PacificVis)</strong>, 2025.</em>
+        <div class="periodical">2023.
         </div>
       <div class="links">
          

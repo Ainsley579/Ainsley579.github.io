@@ -10,7 +10,7 @@ I am Shiyi LIU (刘诗逸), currently a Ph.D. student in the [School of Computin
 My research interests lie in data visualization (VIS) and human computer interaction (HCI). My task is to study how people understand AI, focusing on the trust and perception issues. By examining these elements, my goal is to identify key factors that enhance or impair user trust and to develop more intuitive and effective interaction models between humans and AI systems. 
 
 ## News
-
+- **[Mar. 2025]** Our paper <a href="">Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach</a> is accepted by ICWSM 2025!
 - **[Feb. 2025]** Our paper <a href="https://arxiv.org/abs/2406.03843">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a> is accepted by PacificVis 2025!
 - **[Aug. 2024]** Start my jouney at ASU🏫. 
 - **[Jul. 2024]** Graduated from ShanghaiTech University. Got my Master's Degree🎓.
@@ -19,4 +19,4 @@ My research interests lie in data visualization (VIS) and human computer interac
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

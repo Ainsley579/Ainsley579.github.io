@@ -7,16 +7,41 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
        
-      <img src="./assets/img/teaser_Poem.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+      <img src="./assets/img/teaser_ICWSM.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
-      <abbr class="badge">arXiv</abbr>
+      <abbr class="badge">PacificVis</abbr>
+      
+      
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="">Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach</a></div>
+        <div class="author">Laixin Xie, Ying Zhang, Xiyuan Wang, <strong><u>Shiyi Liu</u></strong>, Shenghan Gao, Xingxing Xing, Wei Wan, Haipeng Zhang, Quan Li</div>
+        <div class="periodical"><i>ICWSM</i>, 2025.
+        </div>
+      <div class="links">
+         
+        <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        
+        
+      </div>
+    </div>
+  </div>
+  </li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+       
+      <img src="./assets/img/teaser_POEM.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+       
+      <abbr class="badge">PacificVis</abbr>
       
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2407.03045">POEM: Interactive Prompt Optimization for Enhancing Multimodal Reasoning of Large Language Models</a></div>
         <div class="author">Jianben He, Xingbo Wang, <strong><u>Shiyi Liu</u></strong>, Guande Wu, Claudio Silva, Huamin Qu</div>
-        <div class="periodical">2023.
+        <div class="periodical"><i>Pacific VIS</i>, 2025.
         </div>
       <div class="links">
          
@@ -52,6 +77,43 @@
     </div>
   </div>
   </li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+     
+    <img src="./assets/img/teaser_BPCoach.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+     
+    <abbr class="badge">CSCW</abbr>
+    
+    
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3637303">BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</a></div>
+      <div class="author"><strong><u>Shiyi Liu</u></strong>, Ruofei Ma, Chuyi Zhao, Zhenbang Li, Jianpeng Xiao, Quan Li</div>
+      <div class="periodical"><em>ACM Conference on Computer-Supported Cooperative Work and Social Computing <strong>(CSCW)</strong>, 2024.</em>
+      </div>
+    <div class="links">
+       
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3637303" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      
+       
+      <!-- <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      
+      
+       
+      <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      
+       
+      <!-- <strong> <i style="color:#e74d3c">Early Accept</i></strong> -->
+      
+      
+    </div>
+  </div>
+</div>
+</li>
+<br />
 
 <li>
 <div class="pub-row">
@@ -117,41 +179,6 @@
   </div>
   </li>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-     
-    <img src="./assets/img/teaser_BPCoach.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-     
-    <abbr class="badge">CSCW</abbr>
-    
-    
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3637303">BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics</a></div>
-      <div class="author"><strong><u>Shiyi Liu</u></strong>, Ruofei Ma, Chuyi Zhao, Zhenbang Li, Jianpeng Xiao, Quan Li</div>
-      <div class="periodical"><em>ACM Conference on Computer-Supported Cooperative Work and Social Computing <strong>(CSCW)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-       
-      <a href="https://dl.acm.org/doi/pdf/10.1145/3637303" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      
-       
-      <!-- <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      
-      
-       
-      <!-- <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      
-       
-      <!-- <strong> <i style="color:#e74d3c">Early Accept</i></strong> -->
-      
-      
-    </div>
-  </div>
-</div>
-</li>
 <br />
 
 

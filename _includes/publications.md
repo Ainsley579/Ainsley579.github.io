@@ -7,6 +7,31 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
        
+      <img src="./assets/img/teaser_FashionCook.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+       
+      <abbr class="badge">CG&A</abbr>
+      
+      
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11142676">FashionCook: A Visual Analytics System for Human-AI Collaboration in Fashion E-Commerce Design</a></div>
+        <div class="author">Yuheng Shao*,<strong><u>Shiyi Liu*</u></strong>, Gongyan Chen, Ruofei Ma, Xingbo Wang, Quan Li</div>
+        <div class="periodical"><i>IEEE CG&A</i>, 2025.
+        </div>
+      <div class="links">
+         
+        <a href="https://ojs.aaai.org/index.php/ICWSM/article/download/35919/38073" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+       
       <img src="./assets/img/teaser_ICWSM.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
       <abbr class="badge">PacificVis</abbr>
@@ -14,19 +39,19 @@
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="">Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach</a></div>
+        <div class="title"><a href="https://ojs.aaai.org/index.php/ICWSM/article/download/35919/38073">Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach</a></div>
         <div class="author">Laixin Xie, Ying Zhang, Xiyuan Wang, <strong><u>Shiyi Liu</u></strong>, Shenghan Gao, Xingxing Xing, Wei Wan, Haipeng Zhang, Quan Li</div>
         <div class="periodical"><i>ICWSM</i>, 2025.
         </div>
       <div class="links">
          
-        <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://ojs.aaai.org/index.php/ICWSM/article/download/35919/38073" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         
         
       </div>
     </div>
   </div>
-  </li>
+</li>
 
 <li>
   <div class="pub-row">

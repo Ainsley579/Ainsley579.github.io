@@ -7,6 +7,31 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
        
+      <img src="./assets/img/teaser_Health.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+       
+      <abbr class="badge">CG&A</abbr>
+      
+      
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/pdf/2507.12721">Design Patterns of Human-AI Interfaces in Healthcare </a></div>
+        <div class="author">Rui Sheng, Chuhan Shi, Sobhan Lotfi, <strong><u>Shiyi Liu*</u></strong>, Adam Perer, Huamin Qu, Furui Cheng</div>
+        <div class="periodical"><i>under review</i>, 2025.
+        </div>
+      <div class="links">
+         
+        <a href="https://arxiv.org/pdf/2507.12721" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+       
       <img src="./assets/img/teaser_FashionCook.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
       <abbr class="badge">CG&A</abbr>
@@ -89,13 +114,13 @@
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/abs/2407.03045">JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets</a></div>
+        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10963705">JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets</a></div>
         <div class="author">Zhihua Jin, <strong><u>Shiyi Liu</u></strong>, Haotian Li, Xun Zhao, Huamin Qu</div>
-        <div class="periodical">2023.
+        <div class="periodical">  <i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>, 2025.
         </div>
       <div class="links">
          
-        <a href="https://arxiv.org/abs/2407.03045" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10963705" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         
         
       </div>

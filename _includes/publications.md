@@ -45,7 +45,7 @@
         </div>
       <div class="links">
          
-        <a href="https://ojs.aaai.org/index.php/ICWSM/article/download/35919/38073" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11142676" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         
         
       </div>
@@ -59,7 +59,7 @@
        
       <img src="./assets/img/teaser_ICWSM.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
-      <abbr class="badge">PacificVis</abbr>
+      <abbr class="badge">ICWSM</abbr>
       
       
     </div>

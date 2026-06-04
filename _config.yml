@@ -1,4 +1,5 @@
-# Basic Information 
+# Basic Information
+repository: Ainsley579/Ainsley579.github.io
 title: Shiyi Liu
 position: Ph.D. Student
 # affiliation: Your Affiliation
@@ -37,8 +38,7 @@ auto_dark_mode: true
 font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

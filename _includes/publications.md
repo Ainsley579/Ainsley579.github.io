@@ -9,14 +9,14 @@
        
       <img src="./assets/img/teaser_Health.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        
-      <abbr class="badge">CG&A</abbr>
+      <abbr class="badge">IJHCS</abbr>
       
       
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://arxiv.org/pdf/2507.12721">Design Patterns of Human-AI Interfaces in Healthcare </a></div>
-        <div class="author">Rui Sheng, Chuhan Shi, Sobhan Lotfi, <strong><u>Shiyi Liu*</u></strong>, Adam Perer, Huamin Qu, Furui Cheng</div>
-        <div class="periodical"><i>under review</i>, 2025.
+        <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1071581926000121">Design Patterns of Human-AI Interfaces in Healthcare </a></div>
+        <div class="author">Rui Sheng, Chuhan Shi, Sobhan Lotfi, <strong><u>Shiyi Liu</u></strong>, Adam Perer, Huamin Qu, Furui Cheng</div>
+        <div class="periodical"><i>International Journal of Human-Computer Studies</i>, 2026.
         </div>
       <div class="links">
          

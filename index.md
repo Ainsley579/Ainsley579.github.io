@@ -12,6 +12,8 @@ My research interests lie in data visualization (VIS) and human computer interac
 ## News
 <div class="news-scroll" markdown="1">
 
+- **[Sep. 2026]** Our paper Exploring the Use and Evaluation of Glyphs in Visual Analytics Applications is accepted by TVCG!
+- **[Jul. 2026]** Our paper <a href="https://arxiv.org/abs/2607.21941">LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks</a> is accepted by VIS!
 - **[May. 2025]** Started as a Research Intern at BOSCH USA!
 - **[Aug. 2025]** Our paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11142676">FashionCook: A Visual Analytics System for Human-AI Collaboration in Fashion E-Commerce Design</a> is accepted by CG&A!
 - **[Mar. 2025]** Our paper <a href="https://ojs.aaai.org/index.php/ICWSM/article/download/35919/38073">Influence Maximization in Temporal Social Networks with a Cold-start Problem: A Supervised Approach</a> is accepted by ICWSM 2025!

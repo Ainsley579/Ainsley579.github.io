@@ -6,6 +6,31 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+
+      <img src="./assets/img/teaser_LatentFlow.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
+
+      <abbr class="badge">VIS</abbr>
+
+
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://arxiv.org/abs/2607.21941">LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks</a></div>
+        <div class="author"><strong><u>Shiyi Liu*</u></strong>, Jiaqing Chen*, Nicholas Hadler, Rostyslav Hnatyshyn, Michael W. Mahoney, Talita Perciano, John F. Hartwig, Gunther H. Weber, Ross Maciejewski (*Equal contribution)</div>
+        <div class="periodical"><i>IEEE Visualization Conference (VIS)</i>, 2026.
+        </div>
+      <div class="links">
+
+        <a href="https://arxiv.org/pdf/2607.21941" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+
+
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
        
       <img src="./assets/img/teaser_Health.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
        

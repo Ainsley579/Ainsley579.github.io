@@ -26,7 +26,7 @@
 
   .github span { background-color: #000; }
 
-  email { font-size: 14px; font-family: "Ubuntu Mono"; }
+  email { font-size: 16px; font-family: "Ubuntu Mono"; }
 
   .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
@@ -79,9 +79,9 @@
 
   h1, h2, h3 { line-height: 1.1; }
 
-  h1 { font-size: 28px; }
+  h1 { font-size: 32px; }
 
-  .news-scroll { height: 160px; overflow-y: auto; padding: 10px 14px 6px 18px; margin: 0 0 22px; border: 1px solid #e5e5e5; border-radius: 6px; }
+  .news-scroll { width: auto; height: 160px; overflow-y: auto; overflow-x: hidden; padding: 10px 14px 6px 18px; margin: 0 0 22px; border: 1px solid #e5e5e5; border-radius: 6px; }
 
   .news-scroll ul { margin: 0; padding-left: 18px; }
 
@@ -96,11 +96,11 @@
   a:hover { color: rgb(235, 126, 245); }
 
   @media (prefers-color-scheme: dark) { a { color: #ff9fd5; } }
-  a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
+  a small { font-size: 13px; color: #777; margin-top: -0.3em; display: block; }
 
   a:hover small { color: #777; }
 
-  .wrapper { width: 960px; margin: 0 auto; }
+  .wrapper { width: 1120px; margin: 0 auto; }
 
   blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -130,7 +130,7 @@
 
   header li:last-child a { border-radius: 0 5px 5px 0; }
 
-  header ul a { line-height: 1; font-size: 11px; color: #999; display: block; text-align: center; padding-top: 6px; height: 34px; }
+  header ul a { line-height: 1; font-size: 13px; color: #999; display: block; text-align: center; padding-top: 6px; height: 34px; }
 
   header ul a:hover { color: #999; }
 
@@ -141,17 +141,17 @@
   @media (prefers-color-scheme: dark) { strong { color: #eeeff0; } }
   header ul li + li + li { border-right: none; width: 89px; }
 
-  header ul a strong { font-size: 14px; display: block; color: #222; }
+  header ul a strong { font-size: 16px; display: block; color: #222; }
 
-  section { width: 650px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
+  section { width: 800px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
 
-  small { font-size: 11px; }
+  small { font-size: 13px; }
 
   hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
   footer { width: 232px; float: left; position: fixed; bottom: 30px; -webkit-font-smoothing: subpixel-antialiased; text-align: center; }
 
-  @media print, screen and (max-width: 960px) { .pub-row { display: flex; align-items: center; }
+  @media print, screen and (max-width: 1120px) { .pub-row { display: flex; align-items: center; }
     div.wrapper { width: auto; margin: 0; }
     header, section, footer { float: none; position: static; width: auto; }
     header { padding-right: 320px; }
@@ -161,7 +161,7 @@
     .image.avatar img { border-radius: 100%; width: 117px; padding: 20px; }
     #head1o2 { visibility: hidden; }
     #head2o2 { visibility: hidden; } }
-  @media print, screen and (max-width: 960px) { body { word-wrap: break-word; padding: 15px; }
+  @media print, screen and (max-width: 1120px) { body { word-wrap: break-word; padding: 15px; }
     .pub-row { display: flex; align-items: center; }
     header { padding: 0; }
     pre, code { word-wrap: normal; } }

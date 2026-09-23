@@ -10,13 +10,14 @@
       <img src="./assets/img/teaser_LatentFlow.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
 
       <abbr class="badge">VIS</abbr>
+      <abbr class="badge award-badge">Honorable Mention</abbr>
 
 
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title"><a href="https://arxiv.org/abs/2607.21941">LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks</a></div>
         <div class="author"><strong><u>Shiyi Liu*</u></strong>, Jiaqing Chen*, Nicholas Hadler, Rostyslav Hnatyshyn, Michael W. Mahoney, Talita Perciano, John F. Hartwig, Gunther H. Weber, Ross Maciejewski (*Equal contribution)</div>
-        <div class="periodical"><i>IEEE Visualization Conference (VIS)</i>, 2026.
+        <div class="periodical"><i>IEEE Visualization Conference (VIS)</i>, 2026. <strong class="award-text">Honorable Mention.</strong>
         </div>
       <div class="links">
 

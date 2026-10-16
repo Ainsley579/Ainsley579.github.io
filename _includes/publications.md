@@ -6,6 +6,23 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <abbr class="badge">TVCG</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11695674">Exploring the Use and Evaluation of Glyphs in Visual Analytics Applications</a></div>
+        <div class="author"><strong><u>Shiyi Liu</u></strong>, Jiayi Hong, Ross Maciejewski</div>
+        <div class="periodical"><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i>, 2026.
+        </div>
+      <div class="links">
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11695674" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      </div>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
 
       <img src="./assets/img/teaser_LatentFlow.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
 
